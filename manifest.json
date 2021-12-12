@@ -1,0 +1,13 @@
+{
+  "name": "General Bots Test Tools",
+  "description": "Tools for debugging and testing generals bots",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["*://bot.generals.io/replays/*"],
+      "css": ["numbers.css"],
+      "js": ["showNumbers.js"]
+    }
+  ]
+}
