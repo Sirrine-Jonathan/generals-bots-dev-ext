@@ -4,7 +4,7 @@
 
 ### Usage
 
-Navigate to the [chrome extension page](chrome://extensions/) in a chrome browser tab
+Navigate to the chrome://extensions/ in a chrome browser tab
 
 Turn on developer mode
 
